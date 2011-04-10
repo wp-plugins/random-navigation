@@ -2,7 +2,7 @@
 /*
  Plugin Name: Random Navigation
  Description: navigation widget which provides navigation menu with many features. Absolutely nothing random :)
- Version: 0.6
+ Version: 0.7
  Author: Frederik Reiß
  Author URI: http://random-internet-node.de
  License: GPLv2

@@ -4,7 +4,7 @@ Contributors: fred19726
 Tags: widget, widgets, menu, navigation, page, pages, categories, tag, tags, sidebar
 Requires at least: 3.0
 Tested up to: 3.1.1
-Stable tag: trunk
+Stable tag: 0.7
 
 Random navigation is a widget which provides navigation menu with many features. 
 
@@ -33,6 +33,9 @@ The installation is straight forward:
 3. Place the "Random nvigation" Widget
 
 == Changelog ==
+
+= 0.7 =
+* set "Stable tag" in the readme from trunk to 0.7
 
 = 0.6 =
 * fix css class name for unique entry

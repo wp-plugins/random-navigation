@@ -34,6 +34,9 @@ The installation is straight forward:
 
 == Changelog ==
 
+= 0.6 =
+* fix css class name for unique entry
+
 = 0.5 =
 * properly escape the href attribute in the menu links
 

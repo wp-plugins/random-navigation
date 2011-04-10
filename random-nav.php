@@ -2,7 +2,7 @@
 /*
  Plugin Name: Random Navigation
  Description: navigation widget which provides navigation menu with many features. Absolutely nothing random :)
- Version: 0.5
+ Version: 0.6
  Author: Frederik Reiß
  Author URI: http://random-internet-node.de
  License: GPLv2
@@ -238,7 +238,7 @@ class Random_Nav extends WP_Widget{
 				$classes[]='random-nav-has-children';
 			}
 
-			$classes[]='random-nav-entry-id-'.(int)$page->id;
+			$classes[]='random-nav-entry-id-'.(int)$page->ID;
 			$classes[]='random-nav-type-'.$page->type;
 
 			$classes[]='random-nav-level-'.$level;
